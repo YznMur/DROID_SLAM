@@ -1,0 +1,1 @@
+python demo.py --imagedir /home/user/DROID-SLAM/data/frames_small --calib /home/user/DROID-SLAM/calib/MOBILE.txt --weights droid_ckpt_2.pth --reconstruction_path /seq2_with_kittickpt_2_test/

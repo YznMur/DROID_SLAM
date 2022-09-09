@@ -1,0 +1,1 @@
+python3 demo.py --imagedir /home/trainer/droidslam/data/frames_V2 --calib /home/trainer/droidslam/calib/MOBILE.txt --weights /home/trainer/droidslam/droid_ckpt_2.pth 
